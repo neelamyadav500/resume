@@ -1,0 +1,16 @@
+header{
+    font-family:'Montserrat', sans-serif;
+    text-align: center;
+}
+.contact a{
+    color: #6a6afc;
+    font-weight: bold;
+}
+h3{
+    color: #6a6afc;
+    text-decoration: underline;
+}
+.content {
+   margin: 30px;
+   padding: 20px 200px 20px;
+}
